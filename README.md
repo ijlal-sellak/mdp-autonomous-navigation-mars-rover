@@ -41,10 +41,3 @@ Future improvements may include:
 - Learning-based approaches (Reinforcement Learning)
 
 
-## Technologies
-
-- Python
-- NumPy
-- Matplotlib
-- Jupyter Notebook
-
